@@ -5,7 +5,7 @@
   minPlayers: 35
   maxPlayers: 80
   stations:
-    Cygnus:
+    Cygnusstation:
       stationProto: StandardNanotrasenStation
       components:
         - type: StationNameSetup
